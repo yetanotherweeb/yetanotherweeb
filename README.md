@@ -12,8 +12,7 @@ var languages = []string{
     "Golang",
     "Python",
     "JavaScript",
-    "C++",
-    "Node.js",
+    "C++"
 }
 
 // Areas of Interest
