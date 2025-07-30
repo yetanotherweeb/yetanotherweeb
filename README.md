@@ -1,16 +1,36 @@
-## Hi there 👋
+```go
+package yetanotherweeb
 
-<!--
-**yetanotherweeb/yetanotherweeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+import "fmt"
 
-Here are some ideas to get you started:
+// Main Account Information
+var mainAccount = "https://github.com/xeyossr"
+var aboutMe = fmt.Sprintf("This is a secondary account for testing purposes. Main account: %s", mainAccount)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+// Languages I Know
+var languages = []string{
+    "Golang",
+    "Python",
+    "JavaScript",
+    "C++",
+    "Node.js",
+}
+
+// Areas of Interest
+var myInterests = []string{
+    "Programming",
+    "Open Source Contributions",
+    "Linux",
+    "Anime & Manga",
+    "Philosophy",
+    "Theology",
+}
+
+// Contact Information
+var contact = map[string]string{
+    "Email":    "yeaweeb@duck.com",
+    "Discord":  "wrathioo",
+    "Anilist":  "yeaweeb",
+    "Instagram": "xeyossr",
+}
+```
