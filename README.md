@@ -11,8 +11,8 @@ var aboutMe = fmt.Sprintf("This is a secondary account for testing purposes. Mai
 var languages = []string{
     "Golang",
     "Python",
-    "JavaScript",
-    "C++"
+    "Bash",
+    "Javascript",
 }
 
 // Areas of Interest
@@ -28,8 +28,8 @@ var myInterests = []string{
 // Contact Information
 var contact = map[string]string{
     "Email":    "yeaweeb@duck.com",
-    "Discord":  "wrathioo",
-    "Anilist":  "yeaweeb",
+    "Discord":  "axrona",
+    "Anilist":  "axrona",
     "Instagram": "xeyossr",
 }
 ```
